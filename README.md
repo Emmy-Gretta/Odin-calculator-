@@ -1,2 +1,2 @@
-# Odin-calculator-
+# Odin-Calculator
 Basic operations calculator
